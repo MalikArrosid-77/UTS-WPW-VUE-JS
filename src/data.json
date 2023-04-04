@@ -1,0 +1,26 @@
+{
+  "mahasiswa": [
+    {
+      "nama_mk": "AGAMA 2",
+      "deskripsi": "Tugas AGAMA",
+      "deadline": "10 April 2023",
+      "metode": "Tepat Waktu (Nilai AB)",
+      "bentuk": [
+        "Laporan"
+      ],
+      "jenis": "Individu",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nama_mk": "Matematika 2",
+      "deskripsi": "Tugas MTK",
+      "deadline": "1 Maret 2022",
+      "metode": "Terlambat (Nilai C)",
+      "bentuk": [
+        "Laporan"
+      ],
+      "jenis": "Individu"
+    }
+  ]
+}
